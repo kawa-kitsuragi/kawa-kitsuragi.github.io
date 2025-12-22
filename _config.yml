@@ -1,4 +1,9 @@
-theme: minima
+theme: leap-day
 title: "Personal Portfolio"
 author: "Kawa Teaño (they/them)"
 descrption: "Kawa helps people be thoughtful and creative. Here's how."
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path
