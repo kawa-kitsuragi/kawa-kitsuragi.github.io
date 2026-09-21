@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Kawa Teaño's Portfolio
 ---
 
 # Hi, I'm Kawa!
