@@ -10,7 +10,7 @@ I am not actively looking for work on commercial games right now, but if you'd l
 
 My pronouns are [they/them](https://en.pronouns.page/they/them). 
 
-# Things I've done
+# Games-related things I've done
 
 Eventually this site will have a Projects page with more details about each of the things in that resume, but in brief:
 
@@ -35,8 +35,19 @@ Again, I am not actively looking for work on commercial games right now, but the
 # Other Kawa facts
 
 * I've contributed to [the Society for Internet Blaseball Research](https://sibr.dev), including paper review, a tool directory in Twine, and some general loving shitposting about data crimes. May the game live Forever.
-* I've used Twine to write interactive erotic *Disco Elysium* fanfiction. 
-* My day job is in data analysis adjacent to life sciences and the pharmaceutical industry. I have past experience in public service and the hospital setting as well. I've done delightful data crimes in Excel and SQL, and now get to do even more in R. 
-* I live with my wife in unceded Coast Salish land (greater Vancouver, BC, Canada), and she will keep asking forever until we get a cat. (It'll happen eventually.) 
+* I've used Twine to write interactive erotic *Disco Elysium* [fanfiction](https://kawa.itch.io/sweeter). 
+* My day job is in data analysis adjacent to life sciences and the pharmaceutical industry. I have past experience in public service and the hospital setting as well. I've done delightful data crimes in Excel and SQL, and now get to do even more in R. Data governance is in fact adjacent to video game production in surprising ways! 
+* I live with my wife in unceded Coast Salish land (greater Vancouver, BC, Canada). Yes, I used to live in New York City, and I will be eternally annoying about it. My wife will keep asking forever until we get a cat; it'll happen eventually.
 * Our wedding did in fact involve [a *Caves of Qud* water ritual](https://archiveofourown.org/works/55254019). Live and drink! (And honestly, planning our wedding is probably the production work I'm proudest of.)
 * Besides games, I like crochet, cocktails, city exploration, and probably several other things that don't involve the letter C. 
+
+# Contact me
+
+I basically don't use public facing social media anymore, but besides the email address listed in my earlier resume, I at least have accounts in many places:
+
+[Bluesky](https://bsky.app/profile/procgenkawa.bsky.social)
+[Mastodon](https://wandering.shop/@kawa)
+[LinkedIn](https://www.linkedin.com/in/kmgteano/) (more focused on data science and governance right now)
+[itch.io](https://kawa.itch.io/) (18+)
+[Instagram](https://www.instagram.com/procgenkawa) (personal, focused on local events)
+[Ravelry](https://www.ravelry.com/people/procgenkawa) (mostly empty, will be crochet)
