@@ -45,9 +45,9 @@ Again, I am not actively looking for work on commercial games right now, but the
 
 I basically don't use public facing social media anymore, but besides the email address listed in my earlier resume, I at least have accounts in many places:
 
-[Bluesky](https://bsky.app/profile/procgenkawa.bsky.social)
-[Mastodon](https://wandering.shop/@kawa)
-[LinkedIn](https://www.linkedin.com/in/kmgteano/) (more focused on data science and governance right now)
-[itch.io](https://kawa.itch.io/) (18+)
-[Instagram](https://www.instagram.com/procgenkawa) (personal, focused on local events)
-[Ravelry](https://www.ravelry.com/people/procgenkawa) (mostly empty, will be crochet)
+* [Bluesky](https://bsky.app/profile/procgenkawa.bsky.social)
+* [Mastodon](https://wandering.shop/@kawa)
+* [LinkedIn](https://www.linkedin.com/in/kmgteano/) (more focused on data science and governance right now)
+* [itch.io](https://kawa.itch.io/) (18+)
+* [Instagram](https://www.instagram.com/procgenkawa) (personal, focused on local events)
+* [Ravelry](https://www.ravelry.com/people/procgenkawa) (mostly empty, will be crochet)
